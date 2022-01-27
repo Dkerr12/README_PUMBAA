@@ -5,7 +5,8 @@ behavioral battery the goal was to distinguish between Angelman syndrome and Wil
 on other behavioral data sets to find the correlations between groups.
 
 ## Multidimensional Analysis 
-Multidimensional Analysis is a several step process that
+
+Multidimensional Analysis is a several step process that includes the use of analytical processes such as Standardization, Principal Component analysis, K means Clustering and Validation
 ## Installation
 
 MATLAB can be installed [here](https://www.mathworks.com/login?uri=%2Fmwaccount%2F). After creating a MathWorks Account you may view additional licenses and select the most recent license for the MATLAB software. 
