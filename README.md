@@ -5,7 +5,7 @@ behavioral battery the goal was to distinguish between Angelman syndrome and Wil
 on other behavioral data sets to find the correlations between groups.
 
 ## Multidimensional Analysis 
-
+<img width="469" alt="Multidimensional Analysis Picture" src="https://user-images.githubusercontent.com/98532332/151368720-e7681a2e-5120-48e2-992c-ef665fcf34fd.png">
 Multidimensional Analysis is a several step process that includes the use of analytical processes such as Standardization, Principal Component analysis, K means Clustering and Validation
 ## Installation
 
