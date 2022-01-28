@@ -1,12 +1,12 @@
 # README_PUMBAA# PUMBAA
 
-PUMBAA (Version 2.0) is a MATLAB software created in 2021 within the [Sidorov Lab](http://sidorovlab.org/) at Children's National Medical Center. It's initial use was to run multidimensional analysis on the behavioral battery of angelman syndrome mice. Based on the
-behavioral battery the goal was to distinguish between Angelman syndrome and Wild-Type Mice based solely on the combination of behavioral values. This was accomplished successfully and PUMBAA has since then been modified to perform the same multidimensional analysis 
-on other behavioral data sets to find the correlations between groups.
+PUMBAA (Version 2.0) is a MATLAB software created in 2021 within the [Sidorov Lab](http://sidorovlab.org/) at Children's National Medical Center. It's initial use was to run multidimensional analysis on the behavioral battery of angelman syndrome mice. The goal was to use data from the behavioral battery to accurately distinguish between Angelman syndrome and Wild-Type Mice based solely on the combination of behavioral values. This was accomplished successfully and PUMBAA has since then been modified to perform the same multidimensional analysis on other behavioral data sets to find the correlations between groups.
 
 ## Multidimensional Analysis 
 <img width="469" alt="Multidimensional Analysis Picture" src="https://user-images.githubusercontent.com/98532332/151368720-e7681a2e-5120-48e2-992c-ef665fcf34fd.png">
-Multidimensional Analysis is a several step process that includes the use of analytical processes such as Standardization, Principal Component analysis, K means Clustering and Validation
+Multidimensional Analysis is a several step process that includes the use of analytical processes such as Standardization, Principal Component analysis, K means Clustering and Validation. The image above displays the pipeline PUMBAA utilizes in order to complete multidimensional analysis. 
+The process between 
+
 ## Installation
 
 MATLAB can be installed [here](https://www.mathworks.com/login?uri=%2Fmwaccount%2F). After creating a MathWorks Account you may view additional licenses and select the most recent license for the MATLAB software. 
