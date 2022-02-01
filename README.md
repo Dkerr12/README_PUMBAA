@@ -5,7 +5,7 @@ PUMBAA (Version 2.0) is a MATLAB software created in 2021 within the [Sidorov La
 ## Multidimensional Analysis 
 <img width="469" alt="Multidimensional Analysis Picture" src="https://user-images.githubusercontent.com/98532332/151368720-e7681a2e-5120-48e2-992c-ef665fcf34fd.png">
 Multidimensional Analysis is a several step process that includes the use of analytical processes such as Standardization, Principal Component analysis, K means Clustering and Validation. The image above displays the pipeline PUMBAA utilizes in order to complete multidimensional analysis. 
-The process between 
+The process begins with standardization where we take the entire data set assign new values for each data point as they are relative to the mean and one standard deviation. Next this is followed by Principal Component Analysis(PCA). With PCA the new standardized data set is grouped into a principal component that explain the most amount of variance/ correlation between data metrics. THe second principal component will attempt to do the same explaining the second amount of variance and so on. Folowing PCA, K-Means clustering groups the data points derived from PCA into distinguishable groups. The amount of groups created is based on the value of k (which most commonly for our purposes is 2).
 
 ## Installation
 
