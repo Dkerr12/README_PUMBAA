@@ -42,6 +42,8 @@ PUMBAA
 ```
 Now that the app is open you can select you excel file of raw data  or pre-standardized data. A pop up window will appear indicating which file has been selected. 
 
+![Load Data Picture](https://user-images.githubusercontent.com/98532332/154344023-1b0cc7d9-6f15-4e67-a479-b606d97a57b7.png)
+
 ### Standardization
 
 The first checkbox is only to be used if you decide to isolate which measures you would like to standardize. Otherwise, it is fine to leave it unchecked.
